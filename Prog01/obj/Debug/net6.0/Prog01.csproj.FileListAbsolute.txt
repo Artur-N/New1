@@ -1,0 +1,16 @@
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\bin\Debug\net6.0\Prog01.exe
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\bin\Debug\net6.0\Prog01.deps.json
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\bin\Debug\net6.0\Prog01.runtimeconfig.json
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\bin\Debug\net6.0\Prog01.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\bin\Debug\net6.0\ref\Prog01.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\bin\Debug\net6.0\Prog01.pdb
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.GlobalUsings.g.cs
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.AssemblyInfo.cs
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\ref\Prog01.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.pdb
+C:\Users\artur\Desktop\GB\Lesson01\Prog01\obj\Debug\net6.0\Prog01.genruntimeconfig.cache
