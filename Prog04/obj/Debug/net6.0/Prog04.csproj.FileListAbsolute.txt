@@ -1,0 +1,6 @@
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.GlobalUsings.g.cs
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.AssemblyInfo.cs
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.csproj.CoreCompileInputs.cache
