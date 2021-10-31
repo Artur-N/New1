@@ -1,24 +1,24 @@
-﻿int a, b, c, d, e;
+﻿int a, b, c, d, s;
 d = 10000; // Distance
 a = 1; // Speed 1
 b = 2; // Speed 2
 c = 5; // Speed dog
-e = (1, 2);
-count = 0;
+s = (1, 2);
+int count = 0;
 int time = 0;
 
 while (d >= 10)
 {
-    if (e = 1)
+    if (s = 1)
     {
         time = d / (a + c);
-        e = 2;
+        s = 2;
     }
-
-    if (e = 2)
+ 
+    if (s = 2)
     {
         time = d / (b + c);
-        e = 1;
+        s = 1;
     }
 
     d = d - (a + b) * time;
