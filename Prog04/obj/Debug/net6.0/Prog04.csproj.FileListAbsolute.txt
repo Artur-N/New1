@@ -4,3 +4,13 @@ C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.GeneratedMSBui
 C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.AssemblyInfoInputs.cache
 C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.AssemblyInfo.cs
 C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\bin\Debug\net6.0\Prog04.exe
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\bin\Debug\net6.0\Prog04.deps.json
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\bin\Debug\net6.0\Prog04.runtimeconfig.json
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\bin\Debug\net6.0\Prog04.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\bin\Debug\net6.0\ref\Prog04.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\bin\Debug\net6.0\Prog04.pdb
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\ref\Prog04.dll
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.pdb
+C:\Users\artur\Desktop\GB\Lesson01\Prog04\obj\Debug\net6.0\Prog04.genruntimeconfig.cache
